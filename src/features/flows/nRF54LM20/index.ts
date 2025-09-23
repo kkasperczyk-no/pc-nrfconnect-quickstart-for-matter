@@ -26,11 +26,10 @@ import {
 } from '../commonResources';
 import { AdvertisingData } from '../pairingConfig';
 
-// TODO: Add a link to the hardware documentation
 const infoConfig = {
     title: 'Next-level multiprotocol SoC',
     markdownContent:
-        '![nRF54LM20 DK](54LM20DK.png)  \n&nbsp;  \nnRF54LM20 is a SoC (System-on-Chip) in the nRF54L Series. It is an ultra-low power Bluetooth 6.0 SoC with a new best-in-class multiprotocol radio and advanced security features.  \n&nbsp; \n&nbsp; \n&nbsp; ![54L20 DK Technologies](54LSeriesDKTech.png) \n&nbsp;  \nThe nRF54L Series takes the popular nRF52 Series to the next level with excellent processing power and efficiency, expanded memory, and new peripherals, all in a more compact package. \n&nbsp;  \n[Hardware documentation]()',
+        '![nRF54LM20 DK](54LM20DK.png)  \n&nbsp;  \nnRF54LM20 is a SoC (System-on-Chip) in the nRF54L Series. It is an ultra-low power Bluetooth 6.0 SoC with a new best-in-class multiprotocol radio and advanced security features.  \n&nbsp; \n&nbsp; \n&nbsp; ![54L20 DK Technologies](54LSeriesDKTech.png) \n&nbsp;  \nThe nRF54L Series takes the popular nRF52 Series to the next level with excellent processing power and efficiency, expanded memory, and new peripherals, all in a more compact package. \n&nbsp;  \n[Hardware documentation](https://docs.nordicsemi.com/bundle/ug_nrf54lm20_dk/page/UG/nRF54LM20_DK/intro/intro.html)',
 };
 
 const programConfig = [
